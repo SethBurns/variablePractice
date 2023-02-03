@@ -1,3 +1,3 @@
 var name = "Seth Burns"
-var age = 33
-var isLearning = true
+var location = "Lilliwaup"
+var hobby ="Scuba Diving"
