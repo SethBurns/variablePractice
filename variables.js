@@ -10,8 +10,8 @@ var mod0Member = true
 var isLearning = true
 var sad = false
 
-var location = "Longview"
-var hobby = "Singing"
+location = "Longview"
+hobby = "Singing"
 
 console.log(location)
 console.log(hobby)
